@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:title="To-Do"
+        android:icon="@drawable/baseline_note_add_24"
+        android:id="@+id/note"/>
+    <item android:title="Timer"
+        android:icon="@drawable/baseline_hourglass_bottom_24"
+        android:id="@+id/timer"/>
+    <item android:title="Stop Watch"
+        android:icon="@drawable/baseline_timer_24"
+        android:id="@+id/stopWatch"/>
+    <item android:title="Pomodoro"
+        android:icon="@drawable/baseline_rocket_24"
+        android:id="@+id/pomodoro"/>
+</menu>
